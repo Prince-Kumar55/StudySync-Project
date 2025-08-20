@@ -422,3 +422,11 @@ body {
 
 }
 
+.testimonial-container{
+    background-color: var(--background-color);
+    padding: 0 2rem;
+    margin: o auto;
+    max-width: 1280px;
+
+}
+
